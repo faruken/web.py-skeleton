@@ -1,0 +1,10 @@
+web.py==0.36
+Mako==0.7.0
+Beaker==1.6.4
+SQLAlchemy==0.7.6
+selenium==2.21.2
+nose==1.1.2
+selenose==1.1
+pylint==0.25.1
+coverage==3.5.1
+clonedigger==1.0.11
