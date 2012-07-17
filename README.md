@@ -52,15 +52,15 @@ The structure is:
 
 # High Level Diagrams
 
-![](wpk2.png)
+![](https://github.com/faruken/web.py-skeleton/raw/master/wpk2.png)
 
 ## Package Diagrams
 
 ### Sub-modules
-![](wpk0.png)
+![](https://github.com/faruken/web.py-skeleton/raw/master/wpk0.png)
 
 ### High-level modules
 
-![](wpk1.png)
+![](https://github.com/faruken/web.py-skeleton/raw/master/wpk1.png)
 
 
